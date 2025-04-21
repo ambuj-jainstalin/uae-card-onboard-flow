@@ -11,9 +11,9 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <header className="bg-white shadow-sm py-4">
         <div className="container mx-auto px-4 md:px-8">
           <img 
-            src="/lovable-uploads/cfed4b12-413a-446f-9085-adcf9de91b60.png" 
-            alt="ADCB Bank" 
-            className="h-10"
+            src="/lovable-uploads/photo-1487958449943-2429e8be8625.jpeg" 
+            alt="Emirates Islamic Bank" 
+            className="h-10 object-contain"
           />
         </div>
       </header>
@@ -34,3 +34,4 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 };
 
 export default Layout;
+
