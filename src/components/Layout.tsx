@@ -11,8 +11,8 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <header className="bg-white shadow-sm py-4">
         <div className="container mx-auto px-4 md:px-8">
           <img 
-            src="https://lovable.dev/lovable-uploads/Emirates-Islamic-Bank-logo-1024x537.jpeg" 
-            alt="Emirates Islamic Bank" 
+            src="/lovable-uploads/cfed4b12-413a-446f-9085-adcf9de91b60.png" 
+            alt="Logo" 
             className="h-10 object-contain"
           />
         </div>
@@ -25,7 +25,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <footer className="bg-white py-6 mt-20">
         <div className="container mx-auto px-4 md:px-8 text-center">
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} ADCB Bank. All rights reserved.
+            © {new Date().getFullYear()} Purple Bank. All rights reserved.
           </p>
         </div>
       </footer>
@@ -34,4 +34,3 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 };
 
 export default Layout;
-
