@@ -11,7 +11,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <header className="bg-white shadow-sm py-4">
         <div className="container mx-auto px-4 md:px-8">
           <img 
-            src="https://lovable.dev/lovable-uploads/photo-1487958449943-2429e8be8625.jpeg" 
+            src="https://lovable.dev/lovable-uploads/Emirates-Islamic-Bank-logo-1024x537.jpeg" 
             alt="Emirates Islamic Bank" 
             className="h-10 object-contain"
           />
